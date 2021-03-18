@@ -589,7 +589,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #f38b74;
+  background: #9ff374;
   margin: 4px 10px;
 }
 
@@ -820,7 +820,7 @@ section {
 .why-us .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#006a50 50%, rgba(237, 80, 46, 0.4) 52%);
+  background: radial-gradient(#006a50 50%, rgba(46, 237, 96, 0.4) 52%);
   border-radius: 50%;
   display: block;
   position: absolute;
@@ -861,7 +861,7 @@ section {
   animation-timing-function: steps;
   opacity: 1;
   border-radius: 50%;
-  border: 5px solid rgba(237, 80, 46, 0.7);
+  border: 5px solid #9ff374;
   top: -15%;
   left: -15%;
   background: rgba(198, 16, 0, 0);
@@ -1050,7 +1050,7 @@ section {
 }
 
 .testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
-  color: #fdedea;
+  color: #d3f7cc;
   font-size: 26px;
 }
 
